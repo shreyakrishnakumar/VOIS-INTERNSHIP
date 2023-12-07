@@ -1,4 +1,4 @@
-# VOIS-INTERNSHIP
+# VOIS INTERNSHIP 
 Artificial Intelligence (AI) is a field of computer science focused on creating machines and software that can perform tasks that typically require human intelligence, such as problem-solving, pattern recognition, and decision-making. AI technologies include machine learning, which enables systems to improve their performance through data-driven learning, and deep learning, a subset of machine learning that uses neural networks to model complex patterns. AI has diverse applications, from autonomous vehicles and virtual assistants to healthcare diagnostics and financial forecasting, and continues to advance rapidly, shaping various aspects of our daily lives.
 
 In this internship, I have done the project on the topic- Employee Attrition Prediction. The learning outcomes of the project would be:Gain a deep understanding of fundamental AI and ML concepts,Acquire proficiency in data preprocessing techniques,Learn how to build machine learning models using popular libraries,Develop the ability to identify and frame real-world problems that can be addressed with AI/ML solutions. 
